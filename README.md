@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yash Namdev</h1>
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Data Analyst | Business Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash25512&label=Profile%20views&color=0e75b6&style=flat" alt="yash25512" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **DATA SCIENCE**
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **DATA SCIENCE PROJECT**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
