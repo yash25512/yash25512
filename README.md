@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Namdev</h1>
-<h3 align="center">Data Analyst | Business Analyst</h3>
+<h3 align="center">Data Science | Data Analyst</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yash25512&label=Profile%20views&color=0e75b6&style=flat" alt="yash25512" /> </p>
 
